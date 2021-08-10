@@ -98,7 +98,7 @@ const Login = () => {
                             </a>
                         </div>
 
-                        <button className="btn btn-success">
+                        <button type="submit" className="btn btn-success">
                             {" "}
                             ورود به سایت{" "}
                         </button>
