@@ -141,7 +141,7 @@ const Register = () => {
                             </a>
                         </div>
 
-                        <button className="btn btn-success">
+                        <button type="submit" className="btn btn-success">
                             {" "}
                             عضویت در سایت{" "}
                         </button>
